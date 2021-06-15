@@ -2,7 +2,7 @@
 
 <!--
 **prafullashekhar/prafullashekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 - Member at Hackathon and Coding Club, BIT Sindri
 - Undergraduate from [BIT Sindri, Dhanbad](http://bitsindri.ac.in/)
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **prafullashekhar@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
