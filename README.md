@@ -3,7 +3,8 @@
 <!--
 **prafullashekhar/prafullashekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
+
 - Member at [Hackathon and Coding Club, BIT Sindri](https://github.com/hnccbits)
 - Undergraduate from [BIT Sindri, Dhanbad](http://bitsindri.ac.in/)
 - 🌱 I’m currently learning **Android development and java**
