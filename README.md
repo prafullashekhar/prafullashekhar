@@ -8,7 +8,6 @@
 - Member at [Hackathon and Coding Club, BIT Sindri](https://github.com/hnccbits)
 - Undergraduate from [BIT Sindri, Dhanbad](http://bitsindri.ac.in/)
 - 🌱 I’m currently learning **Android development and java**
-- 🔭 I’m currently working on [Early-Bird alarm app](https://github.com/prafullashekhar/Early-Bird)
 - 📫 How to reach me: **prafullashekhar@gmail.com**
 
 <!--
